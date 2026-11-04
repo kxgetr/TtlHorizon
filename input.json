@@ -1,0 +1,10 @@
+{
+  "now": 5,
+  "entries": [
+    {
+      "key": "a",
+      "written": 2,
+      "ttl": 3
+    }
+  ]
+}
